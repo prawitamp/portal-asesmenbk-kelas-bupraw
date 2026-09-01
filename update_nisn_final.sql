@@ -49,7 +49,6 @@ UPDATE public.students SET nisn = '0113054857', updated_at = NOW() WHERE full_na
 UPDATE public.students SET nisn = '3116033736', updated_at = NOW() WHERE full_name = 'DESWITA OKTADINA' AND class_name = '9F';
 UPDATE public.students SET nisn = '0129459826', updated_at = NOW() WHERE full_name = 'EKA SULPATRI' AND class_name = '9F';
 UPDATE public.students SET nisn = '0113374881', updated_at = NOW() WHERE full_name = 'FATURROHMAN SYAPUTRA' AND class_name = '9F';
-UPDATE public.students SET nisn = '0128851648', updated_at = NOW() WHERE full_name = 'FERDY ADITIYA' AND class_name = '9F';
 UPDATE public.students SET nisn = '3126600498', updated_at = NOW() WHERE full_name = 'GALVIN ZAKY PRANIANSYAH' AND class_name = '9F';
 UPDATE public.students SET nisn = '0123634987', updated_at = NOW() WHERE full_name = 'GINAA AAFIYAH' AND class_name = '9F';
 UPDATE public.students SET nisn = '0129090902', updated_at = NOW() WHERE full_name = 'HASINA NAYYARA AL GHOJALI' AND class_name = '9F';
